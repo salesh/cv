@@ -26,7 +26,7 @@ class Navbar extends Component {
         return (
             <nav>
                 <ul>
-                    <Navitem item="Home" tolink="/home" activeBarItem={this.activeItem}></Navitem>
+                    <Navitem item="Home" tolink="/" activeBarItem={this.activeItem}></Navitem>
                     <Navitem item="About" tolink="/about" activeBarItem={this.activeItem}></Navitem>
                     <Navitem item="Education" tolink="/education" activeBarItem={this.activeItem}></Navitem>
                     <Navitem item="Skills" tolink="/skills" activeBarItem={this.activeItem}></Navitem>
