@@ -2,7 +2,7 @@
   "name": "portfolio-reactjs",
   "version": "0.1.0",
   "author": "Sasa Cvetkovic",
-  "homepage": "http://salesh.github.io/",
+  "homepage": "http://salesh.github.io/cv",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.27",
